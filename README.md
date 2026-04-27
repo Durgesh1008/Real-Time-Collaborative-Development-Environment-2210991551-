@@ -47,7 +47,7 @@ Experience real-time collaboration here:
 
 ## 📂 Project Structure (As per Guidelines)
 ```text
-Project Title (Roll Numbers)/
+Real-Time Collaborative Development Environment (2210991551)/
 ├── Source Code/             # Core Project Implementation
 │   ├── Backend/             # Express.js Server logic
 │   └── frontend/            # React.js Client (Vite)
@@ -56,8 +56,7 @@ Project Title (Roll Numbers)/
 │   └── Presentation.pptx    # Viva Presentation (PPT)
 ├── Documents/               # Legal & Submission Records
 │   ├── Copyright_Form.pdf   # Filed Copyright Application
-│   ├── Diary_Number.png     # Screenshot of Submission Status
-│   └── PIE_CIE_Forms.pdf    # Academic Forms
+│   └── Diary_Number.png     # Screenshot of Submission Status
 └── README.md                # Project Overview
 
 ```
