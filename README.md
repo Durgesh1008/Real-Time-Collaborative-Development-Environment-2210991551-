@@ -68,7 +68,7 @@ Follow these steps to get the project running locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Durgesh1008/CodeSyncRealTimeCodeCompilar.git]
+git clone (https://github.com/Durgesh1008/Real-Time-Collaborative-Development-Environment-2210991551-)
 cd "Source Code"
 ```
 ### 2. Install Dependencies
