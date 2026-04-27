@@ -60,6 +60,8 @@ Project Title (Roll Numbers)/
 │   └── PIE_CIE_Forms.pdf    # Academic Forms
 └── README.md                # Project Overview
 
+```
+
 ## 💻 Local Setup & Installation
 
 Follow these steps to get the project running locally:
